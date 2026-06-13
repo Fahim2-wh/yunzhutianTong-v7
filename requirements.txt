@@ -5,3 +5,5 @@ pillow
 opencv-python-headless
 numpy
 python-dotenv
+requests
+reportlab
